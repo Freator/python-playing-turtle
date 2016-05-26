@@ -1,6 +1,6 @@
 # Turtle
 
-Turtle est un module python, il permet de dessiner des formes à l'écran.
+Turtle est un module `python`, il permet de dessiner des formes à l'écran.
 Vous contrôlez un curseur que vous pouvez faire avancer avec des commandes.
 
 ```python
