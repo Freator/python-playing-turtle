@@ -1,4 +1,4 @@
-# Turtle
+# Playing with Python Turtle
 
 ![Teenage Mutant Ninja Turtles](ninja_turtles.png)
 
