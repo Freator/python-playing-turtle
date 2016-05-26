@@ -1,6 +1,6 @@
 # Turtle
 
-![Teenage Mutant Ninja Turtles](ninja_turtle.png)
+![Teenage Mutant Ninja Turtles](ninja_turtles.png)
 
 Turtle is a `python` module, it allows you to draw shapes on the screen.
 You control a cursor that you can move with the commands:
