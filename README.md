@@ -13,22 +13,22 @@ turtle.backward(10) # 10 moves backward
 turtle.left(90) # rotates 90 degrees cursor left
 turtle.right(90) # clockwise
 
-turtle.penup () # cursor up
-turtle.pendown () # cursor down
+turtle.penup() # cursor up
+turtle.pendown() # cursor down
 ```
 
 Here is an example of a program drawing a square:
 
 ```python
 import turtle
-turtle.forward (100)
-turtle.left (90)
-turtle.forward (100)
-turtle.left (90)
-turtle.forward (100)
-turtle.left (90)
-turtle.forward (100)
-turtle.left (90)
+turtle.forward(100)
+turtle.left(90)
+turtle.forward(100)
+turtle.left(90)
+turtle.forward(100)
+turtle.left(90)
+turtle.forward(100)
+turtle.left(90)
 ```
 
 # A bit of style
