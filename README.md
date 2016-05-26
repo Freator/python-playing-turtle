@@ -1,43 +1,43 @@
 # Turtle
 
-Turtle est un module python, il permet de dessiner des formes à l'écran.
-Vous contrôlez un curseur que vous pouvez faire avancer avec des commandes.
+Turtle is a `python` module, it allows you to draw shapes on the screen.
+You control a cursor that you can move with the commands:
 
 ```python
     import turtle
 
-    turtle.forward(10) # avance le curseur de 10
-    turtle.backward(10) # recule le curseur de 10
-    turtle.left(90) # tourne le curseur de 90 degrés vers la gauche
-    turtle.right(90) # vers la droite
+    turtle.forward(10) # 10 moves forward
+    turtle.backward(10) # 10 moves backward
+    turtle.left(90) # rotates 90 degrees cursor left
+    turtle.right(90) # clockwise
 
-    turtle.penup() # lève le curseur
-    turtle.pendown() # baisse le curseur    
+    turtle.penup () # cursor up
+    turtle.pendown () # cursor down
 ```
 
-Voici un exemple d'un programme dessinant un carré :
+Here is an example of a program drawing a square:
 
 ```python
     import turtle
-    turtle.forward(100)
-    turtle.left(90)
-    turtle.forward(100)
-    turtle.left(90)
-    turtle.forward(100)
-    turtle.left(90)
-    turtle.forward(100)
-    turtle.left(90)
+    turtle.forward (100)
+    turtle.left (90)
+    turtle.forward (100)
+    turtle.left (90)
+    turtle.forward (100)
+    turtle.left (90)
+    turtle.forward (100)
+    turtle.left (90)
 ```
 
-# Un peu de style
+# A bit of style
 
-Vous pouvez personnaliser vos dessins avec différentes fonctions :
+You can customize your designs with different functions:
 
 ```python
-    turtle.speed(vitesse) # change la vitesse du curseur
-    turtle.pensize(taille) # change la taille du trait
-    turtle.pencolor(rouge, vert, bleu)
-    # chaque composante est comprise entre 0 et 1
+    turtle.speed(speed) # changes the cursor speed
+    turtle.pensize(size) # changes the size of the line
+    turtle.pencolor(red, green, blue)
+    # each component is between 0 and 1
 ```
 
 # Installation
