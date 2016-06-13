@@ -48,6 +48,6 @@ turtle.pencolor(red, green, blue)
 sudo apt-get install python python-tk
 ```
 
-# Pour aller plus loin
+# To go further
 
-https://fr.wikibooks.org/wiki/Math%C3%A9matiques_avec_Python_et_Ruby/Une_tortue_qui_acc%C3%A9l%C3%A8re_la_r%C3%A9solution_de_probl%C3%A8mes
+[WikiBook - /Une tortue qui accélère la résolution de problèmes](https://fr.wikibooks.org/wiki/Math%C3%A9matiques_avec_Python_et_Ruby/Une_tortue_qui_acc%C3%A9l%C3%A8re_la_r%C3%A9solution_de_probl%C3%A8mes)
